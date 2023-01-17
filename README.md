@@ -1,1 +1,1 @@
-# Webpack
+This is a Webpack boilerplate which I will use in subsequent projects.
